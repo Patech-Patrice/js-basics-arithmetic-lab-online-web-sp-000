@@ -16,4 +16,5 @@ ageIsValid =  Number.isInteger(currentAge);
  
  let randomInteger = Math.round(randomNumber);
  
+ let randomUserID = randomInteger + 1000000000;
 
